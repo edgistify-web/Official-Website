@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/edgistify-web/Official-Website/blob/main/favicon_io/android-chrome-192x192.png" height="100" width="100" />
+</p>
 <h1 align="center">Edgistify</h1>
 <h3 align="center">We are India's largest dark store & warehousing network enabling hyperlocal order fulfillment & ecommerce order fulfillment across India.</h3>
 
