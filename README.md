@@ -18,6 +18,8 @@
 <p align="center">
   <img src="https://img.shields.io/github/repo-size/edgistify-web/Official-Website?style=for-the-badge" /> 
   <img src="https://img.shields.io/tokei/lines/github.com/edgistify-web/Official-Website?style=for-the-badge" />
-<!--   <img src="https://img.shields.io/github/directory-file-count/edgistify-web/Official-Website?style=for-the-badge" /> -->
+  <img src="https://img.shields.io/github/directory-file-count/edgistify-web/Official-Website?style=for-the-badge" />
+  
+  
 </p>
 
