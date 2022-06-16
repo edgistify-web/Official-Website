@@ -26,8 +26,8 @@ body {
 
 .socials {
   position: absolute;
-  bottom: 2rem;
-  left: 2rem;
+  bottom: 2.5vh;
+  left: 2.5vh;
   margin: auto;
 }
 .fa-brands {
